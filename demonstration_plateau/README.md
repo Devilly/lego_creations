@@ -1,6 +1,6 @@
 # Demonstration plateau
 
-See below images and/or [this](https://github.com/Devilly/lego_creations/raw/master/nerf_gun_target/PXL_20230605_174335081~2.mp4) video.
+See below images and/or [this](https://github.com/Devilly/lego_creations/raw/master/demonstration_plateau/PXL_20230614_175337373.TS~3.mp4) video.
 
 <image src="PXL_20230614_175047264.jpg" width="300" />
 <image src="PXL_20230614_175055543.jpg" width="300" />
