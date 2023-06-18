@@ -1,6 +1,6 @@
 # Nerf gun target
 
-<video controls>
+<video width="320" height="240" controls>
   <source src="./PXL_20230605_174335081~2.mp4" type="video/mp4">
 </video>
 
