@@ -5,6 +5,10 @@
 <image src="PXL_20230605_180120677.jpg" width="300" />
 <image src="PXL_20230605_180127406.jpg" width="300" />
 
+## Code
+
+The code is "native" Lego Mindstorms MicroPython.
+
 ```Python
 from mindstorms import MSHub, Motor, MotorPair, ColorSensor, DistanceSensor, App
 from mindstorms.control import wait_for_seconds, wait_until, Timer
