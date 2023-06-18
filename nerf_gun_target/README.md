@@ -1,8 +1,9 @@
 # Nerf gun target
 
-<video width="320" height="240" controls>
-  <source src="./PXL_20230605_174335081~2.mp4" type="video/mp4">
-</video>
+<image src="PXL_20230605_180030368.jpg" width="300" />
+<image src="PXL_20230605_180052592.jpg" width="300" />
+<image src="PXL_20230605_180120677.jpg" width="300" />
+<image src="PXL_20230605_180127406.jpg" width="300" />
 
 ```Python
 from mindstorms import MSHub, Motor, MotorPair, ColorSensor, DistanceSensor, App
