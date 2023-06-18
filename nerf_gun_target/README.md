@@ -1,5 +1,7 @@
 # Nerf gun target
 
+See below images and/or [this](https://github.com/Devilly/lego_creations/raw/master/nerf_gun_target/PXL_20230605_174335081~2.mp4) video.
+
 <image src="PXL_20230605_180030368.jpg" width="300" />
 <image src="PXL_20230605_180052592.jpg" width="300" />
 <image src="PXL_20230605_180120677.jpg" width="300" />
