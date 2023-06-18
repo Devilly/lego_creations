@@ -70,5 +70,4 @@ while(True):
         hub.light_matrix.write(number_of_hits)
 
     wait_for_seconds(poll_interval)
-
 ```
