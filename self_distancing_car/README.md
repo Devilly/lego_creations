@@ -140,7 +140,7 @@ while(True):
     wait(20)
 ```
 
-It works while adding some overshoot in the process. Now adding the D... but it's better to make the PID constants configurable for a faster debug/test experience. Making a script that talks to the hub, passing the constants as well as receiving output from the hub for inspection purposes. Continuing this documentation in a Jupyter Notebook.
+It works while adding some overshoot in the process. Now adding the D. But it's better to make the PID constants configurable for a faster debug/test experience. Making a script that talks to the hub, passing the constants as well as receiving output from the hub for inspection purposes. Continuing this documentation in a [Jupyter Notebook](./implementation.ipynb).
 
 ## References
 
