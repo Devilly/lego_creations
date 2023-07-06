@@ -1,8 +1,14 @@
 # Self distancing car
 
+<image src="PXL_20230706_160758826.jpg" width="300" />
+<image src="PXL_20230706_160714623.jpg" width="300" />
+<image src="PXL_20230706_160719625.jpg" width="300" />
+<image src="PXL_20230706_160731122.jpg" width="300" />
+<image src="PXL_20230706_160930224.jpg" width="300" />
+
 ## Code
 
-The code is [Pybricks](https://pybricks.com/) MicroPython.
+The code on the hub is [Pybricks](https://pybricks.com/) MicroPython.
 
 This first version keeps the car a specified number of millimeters from the object in front of it, while using a margin to prevent it from microadjusting all the time.
 
